@@ -1,1 +1,5 @@
-/venv
+virtual/
+start.sh
+*.pyc
+instance/
+__pycache__
